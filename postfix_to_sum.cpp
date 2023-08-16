@@ -6,8 +6,6 @@ void init(){
 }
 int main(){
     init();
-    string s;
-    cin>>s;
-    cout<<s<<endl;
+    
     
 }
